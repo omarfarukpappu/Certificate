@@ -1,2 +1,3 @@
+https://www.credly.com/badges/ea016d30-b940-4536-9e0e-af515ab9f960/print
 
-[Red_Hat_Certified_System_Administrator__RHCSA__Badge20241114-28-bpjy8z.pdf](https://github.com/user-attachments/files/21776771/Red_Hat_Certified_System_Administrator__RHCSA__Badge20241114-28-bpjy8z.pdf)
+<img width="520" height="368" alt="image" src="https://github.com/user-attachments/assets/88249380-54cf-4c26-bd40-ba3ec013496d" />
